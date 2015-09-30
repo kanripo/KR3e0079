@@ -1,0 +1,146 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 本草綱目
+#+DATE: 2015-08-24 23:07:46.885573
+#+PROPERTY: ID KR3e0079
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 圖卷上之下
+<pb:KR3e0079_WYG_002-1a>¶
+欽定四庫全書¶
+　本草綱目圖卷上之下¶
+　　　　　　　　　　　　明　李時珍　撰¶
+　草部五¶
+　　隰草類下¶
+　草部六¶
+　　毒草類¶
+<pb:KR3e0079_WYG_002-2a>¶
+¶
+<pb:KR3e0079_WYG_002-3a>¶
+¶
+<pb:KR3e0079_WYG_002-4a>¶
+¶
+<pb:KR3e0079_WYG_002-5a>¶
+¶
+<pb:KR3e0079_WYG_002-6a>¶
+¶
+<pb:KR3e0079_WYG_002-7a>¶
+¶
+<pb:KR3e0079_WYG_002-8a>¶
+¶
+<pb:KR3e0079_WYG_002-9a>¶
+¶
+<pb:KR3e0079_WYG_002-10a>¶
+¶
+<pb:KR3e0079_WYG_002-11a>¶
+¶
+<pb:KR3e0079_WYG_002-12a>¶
+¶
+<pb:KR3e0079_WYG_002-13a>¶
+¶
+<pb:KR3e0079_WYG_002-14a>¶
+¶
+<pb:KR3e0079_WYG_002-15a>¶
+¶
+<pb:KR3e0079_WYG_002-16a>¶
+¶
+<pb:KR3e0079_WYG_002-17a>¶
+¶
+<pb:KR3e0079_WYG_002-18a>¶
+¶
+<pb:KR3e0079_WYG_002-19a>¶
+¶
+<pb:KR3e0079_WYG_002-20a>¶
+¶
+<pb:KR3e0079_WYG_002-21a>¶
+¶
+<pb:KR3e0079_WYG_002-22a>¶
+¶
+<pb:KR3e0079_WYG_002-23a>¶
+¶
+<pb:KR3e0079_WYG_002-24a>¶
+¶
+<pb:KR3e0079_WYG_002-25a>¶
+¶
+<pb:KR3e0079_WYG_002-26a>¶
+¶
+<pb:KR3e0079_WYG_002-27a>¶
+¶
+<pb:KR3e0079_WYG_002-28a>¶
+¶
+<pb:KR3e0079_WYG_002-29a>¶
+¶
+<pb:KR3e0079_WYG_002-30a>¶
+¶
+<pb:KR3e0079_WYG_002-31a>¶
+¶
+<pb:KR3e0079_WYG_002-32a>¶
+¶
+<pb:KR3e0079_WYG_002-33a>¶
+¶
+<pb:KR3e0079_WYG_002-34a>¶
+¶
+<pb:KR3e0079_WYG_002-35a>¶
+¶
+<pb:KR3e0079_WYG_002-36a>¶
+¶
+<pb:KR3e0079_WYG_002-37a>¶
+¶
+<pb:KR3e0079_WYG_002-38a>¶
+¶
+<pb:KR3e0079_WYG_002-39a>¶
+¶
+<pb:KR3e0079_WYG_002-40a>¶
+¶
+<pb:KR3e0079_WYG_002-41a>¶
+¶
+<pb:KR3e0079_WYG_002-42a>¶
+¶
+<pb:KR3e0079_WYG_002-43a>¶
+¶
+<pb:KR3e0079_WYG_002-44a>¶
+¶
+<pb:KR3e0079_WYG_002-45a>¶
+¶
+<pb:KR3e0079_WYG_002-46a>¶
+¶
+<pb:KR3e0079_WYG_002-47a>¶
+¶
+<pb:KR3e0079_WYG_002-48a>¶
+¶
+<pb:KR3e0079_WYG_002-49a>¶
+¶
+<pb:KR3e0079_WYG_002-50a>¶
+¶
+<pb:KR3e0079_WYG_002-51a>¶
+¶
+<pb:KR3e0079_WYG_002-52a>¶
+¶
+<pb:KR3e0079_WYG_002-53a>¶
+¶
+<pb:KR3e0079_WYG_002-54a>¶
+¶
+<pb:KR3e0079_WYG_002-55a>¶
+¶
+<pb:KR3e0079_WYG_002-56a>¶
+¶
+<pb:KR3e0079_WYG_002-57a>¶
+¶
+<pb:KR3e0079_WYG_002-58a>¶
+¶
+<pb:KR3e0079_WYG_002-59a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR3e0079_WYG_002-59b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　本草綱目圖卷上之下¶

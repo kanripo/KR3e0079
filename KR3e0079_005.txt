@@ -1,0 +1,160 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 本草綱目
+#+DATE: 2015-08-24 23:07:46.934527
+#+PROPERTY: ID KR3e0079
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 圖卷中之下
+<pb:KR3e0079_WYG_005-1a>¶
+欽定四庫全書¶
+　本草綱目圖卷中之下¶
+　　　　　　　　　　　　明　李時珍　撰¶
+　菜部五¶
+　　芝栭類¶
+　果部一¶
+　　五果類¶
+　果部二¶
+<pb:KR3e0079_WYG_005-1b>¶
+　　山果類¶
+　果部三¶
+　　夷果類¶
+　果部四¶
+　　味類¶
+　果部五¶
+　　蓏類¶
+　果部六¶
+<pb:KR3e0079_WYG_005-2a>¶
+　　水果類¶
+　木部一¶
+　　香木類¶
+<pb:KR3e0079_WYG_005-3a>¶
+¶
+<pb:KR3e0079_WYG_005-4a>¶
+¶
+<pb:KR3e0079_WYG_005-5a>¶
+¶
+<pb:KR3e0079_WYG_005-6a>¶
+¶
+<pb:KR3e0079_WYG_005-7a>¶
+¶
+<pb:KR3e0079_WYG_005-8a>¶
+¶
+<pb:KR3e0079_WYG_005-9a>¶
+¶
+<pb:KR3e0079_WYG_005-10a>¶
+¶
+<pb:KR3e0079_WYG_005-11a>¶
+¶
+<pb:KR3e0079_WYG_005-12a>¶
+¶
+<pb:KR3e0079_WYG_005-13a>¶
+¶
+<pb:KR3e0079_WYG_005-14a>¶
+¶
+<pb:KR3e0079_WYG_005-15a>¶
+¶
+<pb:KR3e0079_WYG_005-16a>¶
+¶
+<pb:KR3e0079_WYG_005-17a>¶
+¶
+<pb:KR3e0079_WYG_005-18a>¶
+¶
+<pb:KR3e0079_WYG_005-19a>¶
+¶
+<pb:KR3e0079_WYG_005-20a>¶
+¶
+<pb:KR3e0079_WYG_005-21a>¶
+¶
+<pb:KR3e0079_WYG_005-22a>¶
+¶
+<pb:KR3e0079_WYG_005-23a>¶
+¶
+<pb:KR3e0079_WYG_005-24a>¶
+¶
+<pb:KR3e0079_WYG_005-25a>¶
+¶
+<pb:KR3e0079_WYG_005-26a>¶
+¶
+<pb:KR3e0079_WYG_005-27a>¶
+¶
+<pb:KR3e0079_WYG_005-28a>¶
+¶
+<pb:KR3e0079_WYG_005-29a>¶
+¶
+<pb:KR3e0079_WYG_005-30a>¶
+¶
+<pb:KR3e0079_WYG_005-31a>¶
+¶
+<pb:KR3e0079_WYG_005-32a>¶
+¶
+<pb:KR3e0079_WYG_005-33a>¶
+¶
+<pb:KR3e0079_WYG_005-34a>¶
+¶
+<pb:KR3e0079_WYG_005-35a>¶
+¶
+<pb:KR3e0079_WYG_005-36a>¶
+¶
+<pb:KR3e0079_WYG_005-37a>¶
+¶
+<pb:KR3e0079_WYG_005-38a>¶
+¶
+<pb:KR3e0079_WYG_005-39a>¶
+¶
+<pb:KR3e0079_WYG_005-40a>¶
+¶
+<pb:KR3e0079_WYG_005-41a>¶
+¶
+<pb:KR3e0079_WYG_005-42a>¶
+¶
+<pb:KR3e0079_WYG_005-43a>¶
+¶
+<pb:KR3e0079_WYG_005-44a>¶
+¶
+<pb:KR3e0079_WYG_005-45a>¶
+¶
+<pb:KR3e0079_WYG_005-46a>¶
+¶
+<pb:KR3e0079_WYG_005-47a>¶
+¶
+<pb:KR3e0079_WYG_005-48a>¶
+¶
+<pb:KR3e0079_WYG_005-49a>¶
+¶
+<pb:KR3e0079_WYG_005-50a>¶
+¶
+<pb:KR3e0079_WYG_005-51a>¶
+¶
+<pb:KR3e0079_WYG_005-52a>¶
+¶
+<pb:KR3e0079_WYG_005-53a>¶
+¶
+<pb:KR3e0079_WYG_005-54a>¶
+¶
+<pb:KR3e0079_WYG_005-55a>¶
+¶
+<pb:KR3e0079_WYG_005-56a>¶
+¶
+<pb:KR3e0079_WYG_005-57a>¶
+¶
+<pb:KR3e0079_WYG_005-58a>¶
+¶
+<pb:KR3e0079_WYG_005-59a>¶
+¶
+<pb:KR3e0079_WYG_005-60a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR3e0079_WYG_005-60b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　本草綱目圖卷中之下¶

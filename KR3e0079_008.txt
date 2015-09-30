@@ -1,0 +1,170 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 本草綱目
+#+DATE: 2015-08-24 23:07:46.993263
+#+PROPERTY: ID KR3e0079
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 圖卷下之下
+<pb:KR3e0079_WYG_008-1a>¶
+欽定四庫全書¶
+　本草綱目圖卷下之下¶
+　　　　　　　　　　　　明　李時珍　撰¶
+　禽部一¶
+　　水禽類¶
+　禽部二¶
+　　原禽類¶
+　禽部三¶
+<pb:KR3e0079_WYG_008-1b>¶
+　　林禽類¶
+　禽部四¶
+　　山禽類¶
+　獸部一¶
+　　畜類¶
+　獸部二¶
+　　獸類¶
+　獸部三¶
+<pb:KR3e0079_WYG_008-2a>¶
+　　鼠類¶
+　獸部四¶
+　　寓類¶
+<pb:KR3e0079_WYG_008-3a>¶
+¶
+<pb:KR3e0079_WYG_008-4a>¶
+¶
+<pb:KR3e0079_WYG_008-5a>¶
+¶
+<pb:KR3e0079_WYG_008-6a>¶
+¶
+<pb:KR3e0079_WYG_008-7a>¶
+¶
+<pb:KR3e0079_WYG_008-8a>¶
+¶
+<pb:KR3e0079_WYG_008-9a>¶
+¶
+<pb:KR3e0079_WYG_008-10a>¶
+¶
+<pb:KR3e0079_WYG_008-11a>¶
+¶
+<pb:KR3e0079_WYG_008-12a>¶
+¶
+<pb:KR3e0079_WYG_008-13a>¶
+¶
+<pb:KR3e0079_WYG_008-14a>¶
+¶
+<pb:KR3e0079_WYG_008-15a>¶
+¶
+<pb:KR3e0079_WYG_008-16a>¶
+¶
+<pb:KR3e0079_WYG_008-17a>¶
+¶
+<pb:KR3e0079_WYG_008-18a>¶
+¶
+<pb:KR3e0079_WYG_008-19a>¶
+¶
+<pb:KR3e0079_WYG_008-20a>¶
+¶
+<pb:KR3e0079_WYG_008-21a>¶
+¶
+<pb:KR3e0079_WYG_008-22a>¶
+¶
+<pb:KR3e0079_WYG_008-23a>¶
+¶
+<pb:KR3e0079_WYG_008-24a>¶
+¶
+<pb:KR3e0079_WYG_008-25a>¶
+¶
+<pb:KR3e0079_WYG_008-26a>¶
+¶
+<pb:KR3e0079_WYG_008-27a>¶
+¶
+<pb:KR3e0079_WYG_008-28a>¶
+¶
+<pb:KR3e0079_WYG_008-29a>¶
+¶
+<pb:KR3e0079_WYG_008-30a>¶
+¶
+<pb:KR3e0079_WYG_008-31a>¶
+¶
+<pb:KR3e0079_WYG_008-32a>¶
+¶
+<pb:KR3e0079_WYG_008-33a>¶
+¶
+<pb:KR3e0079_WYG_008-34a>¶
+¶
+<pb:KR3e0079_WYG_008-35a>¶
+¶
+<pb:KR3e0079_WYG_008-36a>¶
+¶
+<pb:KR3e0079_WYG_008-37a>¶
+¶
+<pb:KR3e0079_WYG_008-38a>¶
+¶
+<pb:KR3e0079_WYG_008-39a>¶
+¶
+<pb:KR3e0079_WYG_008-40a>¶
+¶
+<pb:KR3e0079_WYG_008-41a>¶
+¶
+<pb:KR3e0079_WYG_008-42a>¶
+¶
+<pb:KR3e0079_WYG_008-43a>¶
+¶
+<pb:KR3e0079_WYG_008-44a>¶
+¶
+<pb:KR3e0079_WYG_008-45a>¶
+¶
+<pb:KR3e0079_WYG_008-46a>¶
+¶
+<pb:KR3e0079_WYG_008-47a>¶
+¶
+<pb:KR3e0079_WYG_008-48a>¶
+¶
+<pb:KR3e0079_WYG_008-49a>¶
+¶
+<pb:KR3e0079_WYG_008-50a>¶
+¶
+<pb:KR3e0079_WYG_008-51a>¶
+¶
+<pb:KR3e0079_WYG_008-52a>¶
+¶
+<pb:KR3e0079_WYG_008-53a>¶
+¶
+<pb:KR3e0079_WYG_008-54a>¶
+¶
+<pb:KR3e0079_WYG_008-55a>¶
+¶
+<pb:KR3e0079_WYG_008-56a>¶
+¶
+<pb:KR3e0079_WYG_008-57a>¶
+¶
+<pb:KR3e0079_WYG_008-58a>¶
+¶
+<pb:KR3e0079_WYG_008-59a>¶
+¶
+<pb:KR3e0079_WYG_008-60a>¶
+¶
+<pb:KR3e0079_WYG_008-61a>¶
+¶
+<pb:KR3e0079_WYG_008-62a>¶
+¶
+<pb:KR3e0079_WYG_008-63a>¶
+¶
+<pb:KR3e0079_WYG_008-64a>¶
+¶
+<pb:KR3e0079_WYG_008-65a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR3e0079_WYG_008-65b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　本草綱目圖卷下之下¶
